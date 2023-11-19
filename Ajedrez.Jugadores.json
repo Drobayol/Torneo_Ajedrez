@@ -1,0 +1,45 @@
+[{
+  "_id": 1,
+  "nombre": "Juan Pérez",
+  "apellido": "González",
+  "fecha_nacimiento": "1990-01-01",
+  "nacionalidad": "Colombia",
+  "club": "Club de Ajedrez Bogotá",
+  "posición": "1.e4"
+},
+{
+  "_id": 2,
+  "nombre": "María Gómez",
+  "apellido": "López",
+  "fecha_nacimiento": "1991-02-02",
+  "nacionalidad": "Colombia",
+  "club": "Club de Ajedrez Medellín",
+  "posición": "1.d4"
+},
+{
+  "_id": 3,
+  "nombre": "Pedro Hernández",
+  "apellido": "Rodríguez",
+  "fecha_nacimiento": "1992-03-03",
+  "nacionalidad": "Venezuela",
+  "club": "Club de Ajedrez Caracas",
+  "posición": "1.c4"
+},
+{
+  "_id": 4,
+  "nombre": "Ana Sánchez",
+  "apellido": "García",
+  "fecha_nacimiento": "1993-04-04",
+  "nacionalidad": "Ecuador",
+  "club": "Club de Ajedrez Quito",
+  "posición": "1.Nf3"
+},
+{
+  "_id": 5,
+  "nombre": "Carlos Castillo",
+  "apellido": "Pérez",
+  "fecha_nacimiento": "1994-05-05",
+  "nacionalidad": "Perú",
+  "club": "Club de Ajedrez Lima",
+  "posición": "1.g3"
+}]

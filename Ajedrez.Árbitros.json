@@ -1,0 +1,45 @@
+[{
+  "_id": {
+    "$oid": "655a1753cafe6cdec124fee5"
+  },
+  "nombre": "Carlos ",
+  "apellido": "Pérez",
+  "nacionalidad": "Perú",
+  "categoría": "FIDE"
+},
+{
+  "_id": {
+    "$oid": "655a1753cafe6cdec124fee6"
+  },
+  "nombre": "José",
+  "apellido": "López",
+  "nacionalidad": "Colombia",
+  "categoría": "FIDE"
+},
+{
+  "_id": {
+    "$oid": "655a1753cafe6cdec124fee7"
+  },
+  "nombre": "Andrea",
+  "apellido": "Quiroz",
+  "nacionalidad": "Venezuela",
+  "categoría": "FIDE"
+},
+{
+  "_id": {
+    "$oid": "655a1753cafe6cdec124fee8"
+  },
+  "nombre": "Luis",
+  "apellido": "Urrego",
+  "nacionalidad": "Argentina",
+  "categoría": "FIDE"
+},
+{
+  "_id": {
+    "$oid": "655a1753cafe6cdec124fee9"
+  },
+  "nombre": "Luisa",
+  "apellido": "Quimbay",
+  "nacionalidad": "Bolivia",
+  "categoría": "FIDE"
+}]

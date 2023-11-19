@@ -1,0 +1,116 @@
+[{
+  "_id": {
+    "$oid": "655a164acafe6cdec124fed2"
+  },
+  "fecha": "2023-12-20",
+  "hora": "10:00",
+  "lugar": "Teatro Colón",
+  "equipos_participantes": [
+    {
+      "nombre": "Colombia",
+      "jugadores": [
+        "Juan Pérez",
+        "María Gómez"
+      ]
+    },
+    {
+      "nombre": "Venezuela (2)",
+      "jugadores": [
+        "Pedro Hernández",
+        "Ana Sánchez"
+      ]
+    }
+  ],
+  "marcador": "1-0",
+  "árbitros": [
+    "Carlos Castillo",
+    "José Pérez"
+  ]
+},
+{
+  "_id": {
+    "$oid": "655a164acafe6cdec124fed3"
+  },
+  "fecha": "2023-12-21",
+  "hora": "12:00",
+  "lugar": "Centro Cultural Gabriel García Márquez",
+  "equipos_participantes": [
+    {
+      "nombre": "Ecuador",
+      "jugadores": [
+        "Ana Sánchez",
+        "Carlos Castillo"
+      ]
+    },
+    {
+      "nombre": "Perú (2)",
+      "jugadores": [
+        "Pedro Hernández",
+        "Juan Pérez"
+      ]
+    }
+  ],
+  "marcador": "0-1",
+  "árbitros": [
+    "María Gómez",
+    "José Pérez"
+  ]
+},
+{
+  "_id": {
+    "$oid": "655a164acafe6cdec124fed4"
+  },
+  "fecha": "2023-12-22",
+  "hora": "14:00",
+  "lugar": "Museo Nacional de Colombia",
+  "equipos_participantes": [
+    {
+      "nombre": "Colombia",
+      "jugadores": [
+        "María Gómez",
+        "Carlos Castillo"
+      ]
+    },
+    {
+      "nombre": "Ecuador (2)",
+      "jugadores": [
+        "Ana Sánchez",
+        "Pedro Hernández"
+      ]
+    }
+  ],
+  "marcador": "1-1",
+  "árbitros": [
+    "Juan Pérez",
+    "José Pérez"
+  ]
+},
+{
+  "_id": {
+    "$oid": "655a164acafe6cdec124fed5"
+  },
+  "fecha": "2023-12-23",
+  "hora": "16:00",
+  "lugar": "Parque de la 93",
+  "equipos_participantes": [
+    {
+      "nombre": "Perú (2)",
+      "jugadores": [
+        "Carlos Castillo",
+        "Juan Pérez"
+      ]
+    },
+    {
+      "nombre": "Venezuela (2)",
+      "jugadores": [
+        "Pedro Hernández",
+        "Ana Sánchez"
+      ]
+    }
+  ],
+  "marcador": "0-1",
+  "árbitros": [
+    "María Gómez",
+    "José Pérez"
+  ]
+}]

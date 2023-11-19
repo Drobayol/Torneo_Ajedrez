@@ -1,0 +1,36 @@
+[{
+  "_id": {
+    "$oid": "655a16c9cafe6cdec124fed8"
+  },
+  "fecha": "2023-08-20",
+  "ganador": "Colombia",
+  "perdedor": "Venezuela",
+  "empate": false
+},
+{
+  "_id": {
+    "$oid": "655a16c9cafe6cdec124fed9"
+  },
+  "fecha": "2023-08-21",
+  "ganador": "Perú",
+  "perdedor": "Ecuador",
+  "empate": false
+},
+{
+  "_id": {
+    "$oid": "655a16c9cafe6cdec124feda"
+  },
+  "fecha": "2023-08-22",
+  "ganador": null,
+  "perdedor": null,
+  "empate": true
+},
+{
+  "_id": {
+    "$oid": "655a16c9cafe6cdec124fedb"
+  },
+  "fecha": "2023-08-23",
+  "ganador": "Venezuela",
+  "perdedor": "Perú",
+  "empate": false
+}]

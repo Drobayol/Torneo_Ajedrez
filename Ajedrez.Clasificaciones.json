@@ -1,0 +1,40 @@
+[{
+  "_id": {
+    "$oid": "655a1711cafe6cdec124fede"
+  },
+  "posición": 1,
+  "jugador": "Juan Pérez",
+  "puntos": 2
+},
+{
+  "_id": {
+    "$oid": "655a1711cafe6cdec124fedf"
+  },
+  "posición": 2,
+  "jugador": "María Gómez",
+  "puntos": 1
+},
+{
+  "_id": {
+    "$oid": "655a1711cafe6cdec124fee0"
+  },
+  "posición": 3,
+  "jugador": "Carlos Castillo",
+  "puntos": 1
+},
+{
+  "_id": {
+    "$oid": "655a1711cafe6cdec124fee1"
+  },
+  "posición": 4,
+  "jugador": "Ana Sánchez",
+  "puntos": 0
+},
+{
+  "_id": {
+    "$oid": "655a1711cafe6cdec124fee2"
+  },
+  "posición": 5,
+  "jugador": "Pedro Hernández",
+  "puntos": 0
+}]
